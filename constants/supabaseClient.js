@@ -1,0 +1,2 @@
+export const supabaseUrl = 'https://alglyqhwfutunmtjshep.supabase.co'
+export const supabaseAnonKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImFsZ2x5cWh3ZnV0dW5tdGpzaGVwIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzE3NTUzNzQsImV4cCI6MjA0NzMzMTM3NH0.BjVBV4S8aq6hybGdkQbxy7RGBUdg8P3bSjef9phOM6c'
